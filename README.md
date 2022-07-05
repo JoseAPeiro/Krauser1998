@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @JosePeiro
+- 👋 Hi, I’m Jose Peiro
 - 👀 I’m interested in Game development
 - 🌱 I’m currently learning Creative Media and Game Technology
